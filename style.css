@@ -8223,7 +8223,7 @@ h1, h2, h3, h4, h5,
             transition: none; } }
       .owl-carousel .owl-nav .owl-prev:hover span:before,
       .owl-carousel .owl-nav .owl-next:hover span:before {
-        color: #b063c5; }
+        color: #519ed6; }
     .owl-carousel .owl-nav .owl-prev {
       right: 0;
       margin-right: 20px; }
@@ -8242,7 +8242,7 @@ h1, h2, h3, h4, h5,
       .owl-carousel .owl-dots .owl-dot:hover, .owl-carousel .owl-dots .owl-dot:focus {
         outline: none !important; }
       .owl-carousel .owl-dots .owl-dot.active {
-        background: #b063c5; }
+        background: #519ed6; }
 
 .owl-carousel.owl-drag .owl-item {
   -ms-touch-action: pan-y;
